@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\DatabaseFinal\DatabaseFinal\bin\Debug\DatabaseFinal.dacpac
+C:\Users\Dell\source\repos\DatabaseFinal\DatabaseFinal\bin\Debug\DatabaseFinal.dll
+C:\Users\Dell\source\repos\DatabaseFinal\DatabaseFinal\bin\Debug\DatabaseFinal.pdb
+C:\Users\Dell\source\repos\DatabaseFinal\DatabaseFinal\obj\Debug\DatabaseFinal.sqlproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DatabaseFinal\DatabaseFinal\obj\Debug\Model.xml
+C:\Users\Dell\source\repos\DatabaseFinal\DatabaseFinal\obj\Debug\refactor.xml
+C:\Users\Dell\source\repos\DatabaseFinal\DatabaseFinal\obj\Debug\postdeploy.sql
+C:\Users\Dell\source\repos\DatabaseFinal\DatabaseFinal\obj\Debug\predeploy.sql
+C:\Users\Dell\source\repos\DatabaseFinal\DatabaseFinal\obj\Debug\DatabaseFinal.dll
+C:\Users\Dell\source\repos\DatabaseFinal\DatabaseFinal\obj\Debug\DatabaseFinal.pdb
